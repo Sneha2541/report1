@@ -132,3 +132,4 @@ if __name__ == "__main__":
     charges = [charge1, charge2]
 
     combined_plot(charges)
+####################################################################
